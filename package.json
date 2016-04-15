@@ -10,8 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4"
-  }
-  "engines": {
+  },
+  "engines":
+  {
     "node": "0.12.7"
   },
   "scripts":
