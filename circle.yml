@@ -6,4 +6,7 @@ deployment:
 staging:
       branch: staging
           heroku:
-	        appname: myapp-staging
+	  appname: myapp-staging
+
+	 general:
+	   build_dir: api
