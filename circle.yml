@@ -1,9 +1,5 @@
 deployment:
-  prod:
-      branch: master
+  staging:
+      branch: myBranch
           heroku:
 	        appname: myapp
-
-
-	 general:
-	   build_dir: api
