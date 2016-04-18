@@ -2,4 +2,4 @@ deployment:
   staging:
       branch: myBranch
       heroku:
-	        appname: circlecihello
+      appname: circlecihello
