@@ -1,5 +1,4 @@
 deployment:
   staging:
       branch: myBranch
-          heroku:
 	        appname: myapp
